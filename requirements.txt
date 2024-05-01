@@ -1,0 +1,10 @@
+requests
+re
+socket
+dnspython
+colorama
+validators
+beautifulsoup4
+urllib3
+fade
+python-whois
